@@ -1,0 +1,63 @@
+{
+    "status": "success",
+    "data": {
+      "team1Players": [
+        {
+          "id": "player-1001",
+          "name": "Virat Kohli",
+          "role": "batsman",
+          "battingStyle": "Right-handed",
+          "bowlingStyle": "Right-arm medium",
+          "country": "India",
+          "playerImg": "https://raw.githubusercontent.com/your-username/cricket-api/main/images/players/virat-kohli.png"
+        },
+        {
+          "id": "player-1002",
+          "name": "Rohit Sharma",
+          "role": "batsman",
+          "battingStyle": "Right-handed",
+          "bowlingStyle": "Right-arm off break",
+          "country": "India",
+          "playerImg": "https://raw.githubusercontent.com/your-username/cricket-api/main/images/players/rohit-sharma.png"
+        },
+        {
+          "id": "player-1003",
+          "name": "Jasprit Bumrah",
+          "role": "bowler",
+          "battingStyle": "Right-handed",
+          "bowlingStyle": "Right-arm fast",
+          "country": "India",
+          "playerImg": "https://raw.githubusercontent.com/your-username/cricket-api/main/images/players/jasprit-bumrah.png"
+        }
+      ],
+      "team2Players": [
+        {
+          "id": "player-2001",
+          "name": "Pat Cummins",
+          "role": "bowler",
+          "battingStyle": "Right-handed",
+          "bowlingStyle": "Right-arm fast",
+          "country": "Australia",
+          "playerImg": "https://raw.githubusercontent.com/your-username/cricket-api/main/images/players/pat-cummins.png"
+        },
+        {
+          "id": "player-2002",
+          "name": "Steve Smith",
+          "role": "batsman",
+          "battingStyle": "Right-handed",
+          "bowlingStyle": "Right-arm leg break",
+          "country": "Australia",
+          "playerImg": "https://raw.githubusercontent.com/your-username/cricket-api/main/images/players/steve-smith.png"
+        },
+        {
+          "id": "player-2003",
+          "name": "Mitchell Starc",
+          "role": "bowler",
+          "battingStyle": "Left-handed",
+          "bowlingStyle": "Left-arm fast",
+          "country": "Australia",
+          "playerImg": "https://raw.githubusercontent.com/your-username/cricket-api/main/images/players/mitchell-starc.png"
+        }
+      ]
+    }
+  }

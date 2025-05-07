@@ -1,0 +1,56 @@
+{
+    "status": "success",
+    "data": [
+      {
+        "id": "match-001",
+        "name": "India vs Australia, 1st Test",
+        "matchType": "test",
+        "status": "upcoming",
+        "venue": "Melbourne Cricket Ground",
+        "date": "2025-06-15T04:00:00.000Z",
+        "dateTimeGMT": "2025-06-15T04:00:00.000Z",
+        "teams": ["India", "Australia"],
+        "teamInfo": [
+          {"name": "India", "shortname": "IND", "img": "https://raw.githubusercontent.com/your-username/cricket-api/main/images/india.png"},
+          {"name": "Australia", "shortname": "AUS", "img": "https://raw.githubusercontent.com/your-username/cricket-api/main/images/australia.png"}
+        ],
+        "score": [],
+        "matchStarted": false,
+        "hasSquad": true
+      },
+      {
+        "id": "match-002",
+        "name": "England vs New Zealand, 2nd ODI",
+        "matchType": "odi",
+        "status": "upcoming",
+        "venue": "Lord's Cricket Ground",
+        "date": "2025-06-18T10:30:00.000Z",
+        "dateTimeGMT": "2025-06-18T10:30:00.000Z",
+        "teams": ["England", "New Zealand"],
+        "teamInfo": [
+          {"name": "England", "shortname": "ENG", "img": "https://raw.githubusercontent.com/your-username/cricket-api/main/images/england.png"},
+          {"name": "New Zealand", "shortname": "NZ", "img": "https://raw.githubusercontent.com/your-username/cricket-api/main/images/newzealand.png"}
+        ],
+        "score": [],
+        "matchStarted": false,
+        "hasSquad": true
+      },
+      {
+        "id": "match-003",
+        "name": "South Africa vs Pakistan, 3rd T20I",
+        "matchType": "t20",
+        "status": "upcoming",
+        "venue": "Newlands Cricket Ground",
+        "date": "2025-06-20T14:00:00.000Z",
+        "dateTimeGMT": "2025-06-20T14:00:00.000Z",
+        "teams": ["South Africa", "Pakistan"],
+        "teamInfo": [
+          {"name": "South Africa", "shortname": "SA", "img": "https://raw.githubusercontent.com/your-username/cricket-api/main/images/southafrica.png"},
+          {"name": "Pakistan", "shortname": "PAK", "img": "https://raw.githubusercontent.com/your-username/cricket-api/main/images/pakistan.png"}
+        ],
+        "score": [],
+        "matchStarted": false,
+        "hasSquad": true
+      }
+    ]
+  }

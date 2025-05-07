@@ -1,0 +1,31 @@
+{
+    "matches": [
+      {
+        "id": "match-001",
+        "name": "India vs Australia, 1st Test",
+        "matchType": "test",
+        "status": "upcoming",
+        "venue": "Melbourne Cricket Ground",
+        "date": "2025-06-15",
+        "dateTimeGMT": "2025-06-15T04:00:00",
+        "teams": ["India", "Australia"],
+        "teamInfo": [
+          {"name": "India", "shortname": "IND", "img": "https://yourcdn.com/images/india.png"},
+          {"name": "Australia", "shortname": "AUS", "img": "https://yourcdn.com/images/australia.png"}
+        ],
+        "hasSquad": true
+      }
+    ],
+    "players": {
+      "match-001": [
+        {
+          "id": "player-1001",
+          "name": "Virat Kohli",
+          "team": "India",
+          "role": "batsman",
+          "battingStyle": "Right-handed",
+          "bowlingStyle": "Right-arm medium"
+        }
+      ]
+    }
+  }
