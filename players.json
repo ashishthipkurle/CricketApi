@@ -1,63 +1,99 @@
 {
-    "status": "success",
-    "data": {
-      "team1Players": [
-        {
-          "id": "player-1001",
-          "name": "Virat Kohli",
-          "role": "batsman",
-          "battingStyle": "Right-handed",
-          "bowlingStyle": "Right-arm medium",
-          "country": "India",
-          "playerImg": "https://raw.githubusercontent.com/your-username/cricket-api/main/images/players/virat-kohli.png"
-        },
-        {
-          "id": "player-1002",
-          "name": "Rohit Sharma",
-          "role": "batsman",
-          "battingStyle": "Right-handed",
-          "bowlingStyle": "Right-arm off break",
-          "country": "India",
-          "playerImg": "https://raw.githubusercontent.com/your-username/cricket-api/main/images/players/rohit-sharma.png"
-        },
-        {
-          "id": "player-1003",
-          "name": "Jasprit Bumrah",
-          "role": "bowler",
-          "battingStyle": "Right-handed",
-          "bowlingStyle": "Right-arm fast",
-          "country": "India",
-          "playerImg": "https://raw.githubusercontent.com/your-username/cricket-api/main/images/players/jasprit-bumrah.png"
-        }
-      ],
-      "team2Players": [
-        {
-          "id": "player-2001",
-          "name": "Pat Cummins",
-          "role": "bowler",
-          "battingStyle": "Right-handed",
-          "bowlingStyle": "Right-arm fast",
-          "country": "Australia",
-          "playerImg": "https://raw.githubusercontent.com/your-username/cricket-api/main/images/players/pat-cummins.png"
-        },
-        {
-          "id": "player-2002",
-          "name": "Steve Smith",
-          "role": "batsman",
-          "battingStyle": "Right-handed",
-          "bowlingStyle": "Right-arm leg break",
-          "country": "Australia",
-          "playerImg": "https://raw.githubusercontent.com/your-username/cricket-api/main/images/players/steve-smith.png"
-        },
-        {
-          "id": "player-2003",
-          "name": "Mitchell Starc",
-          "role": "bowler",
-          "battingStyle": "Left-handed",
-          "bowlingStyle": "Left-arm fast",
-          "country": "Australia",
-          "playerImg": "https://raw.githubusercontent.com/your-username/cricket-api/main/images/players/mitchell-starc.png"
-        }
-      ]
-    }
+  "status": "success",
+  "data": {
+    "team1Players": [
+      {
+        "id": "player-1001",
+        "name": "Virat Kohli",
+        "role": "batsman",
+        "battingStyle": "Right-handed",
+        "bowlingStyle": "Right-arm medium",
+        "country": "India",
+        "playerImg": "https://assets.iplt20.com/ipl/IPLHeadshot2022/164.png"
+      },
+      {
+        "id": "player-1002",
+        "name": "Rohit Sharma",
+        "role": "batsman",
+        "battingStyle": "Right-handed",
+        "bowlingStyle": "Right-arm off break",
+        "country": "India",
+        "playerImg": "https://assets.iplt20.com/ipl/IPLHeadshot2022/107.png"
+      },
+      {
+        "id": "player-1003",
+        "name": "Jasprit Bumrah",
+        "role": "bowler",
+        "battingStyle": "Right-handed",
+        "bowlingStyle": "Right-arm fast",
+        "country": "India",
+        "playerImg": "https://assets.iplt20.com/ipl/IPLHeadshot2022/1124.png"
+      },
+      {
+        "id": "player-1004",
+        "name": "KL Rahul",
+        "role": "batsman",
+        "battingStyle": "Right-handed",
+        "bowlingStyle": "NA",
+        "country": "India",
+        "playerImg": "https://assets.iplt20.com/ipl/IPLHeadshot2022/1125.png"
+      },
+      {
+        "id": "player-1005",
+        "name": "Ravindra Jadeja",
+        "role": "all-rounder",
+        "battingStyle": "Left-handed",
+        "bowlingStyle": "Left-arm orthodox",
+        "country": "India",
+        "playerImg": "https://assets.iplt20.com/ipl/IPLHeadshot2022/9.png"
+      }
+    ],
+    "team2Players": [
+      {
+        "id": "player-2001",
+        "name": "Pat Cummins",
+        "role": "bowler",
+        "battingStyle": "Right-handed",
+        "bowlingStyle": "Right-arm fast",
+        "country": "Australia",
+        "playerImg": "https://assets.iplt20.com/ipl/IPLHeadshot2022/488.png"
+      },
+      {
+        "id": "player-2002",
+        "name": "Steve Smith",
+        "role": "batsman",
+        "battingStyle": "Right-handed",
+        "bowlingStyle": "Right-arm leg break",
+        "country": "Australia",
+        "playerImg": "https://assets.iplt20.com/ipl/IPLHeadshot2022/271.png"
+      },
+      {
+        "id": "player-2003",
+        "name": "Mitchell Starc",
+        "role": "bowler",
+        "battingStyle": "Left-handed",
+        "bowlingStyle": "Left-arm fast",
+        "country": "Australia",
+        "playerImg": "https://assets.iplt20.com/ipl/IPLHeadshot2022/964.png"
+      },
+      {
+        "id": "player-2004",
+        "name": "David Warner",
+        "role": "batsman",
+        "battingStyle": "Left-handed",
+        "bowlingStyle": "Right-arm leg break",
+        "country": "Australia",
+        "playerImg": "https://assets.iplt20.com/ipl/IPLHeadshot2022/170.png"
+      },
+      {
+        "id": "player-2005",
+        "name": "Glenn Maxwell",
+        "role": "all-rounder",
+        "battingStyle": "Right-handed",
+        "bowlingStyle": "Right-arm off break",
+        "country": "Australia",
+        "playerImg": "https://assets.iplt20.com/ipl/IPLHeadshot2022/282.png"
+      }
+    ]
   }
+}
