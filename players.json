@@ -9,7 +9,11 @@
         "battingStyle": "Right-handed",
         "bowlingStyle": "Right-arm medium",
         "country": "India",
-        "playerImg": "https://assets.iplt20.com/ipl/IPLHeadshot2022/164.png"
+        "playerImg": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2022/2972.png",
+        "points": 925,
+        "matches": 118,
+        "runs": 8676,
+        "centuries": 29
       },
       {
         "id": "player-1002",
@@ -18,7 +22,11 @@
         "battingStyle": "Right-handed",
         "bowlingStyle": "Right-arm off break",
         "country": "India",
-        "playerImg": "https://assets.iplt20.com/ipl/IPLHeadshot2022/107.png"
+        "playerImg": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2022/107.png",
+        "points": 910,
+        "matches": 125,
+        "runs": 6211,
+        "centuries": 18
       },
       {
         "id": "player-1003",
@@ -27,7 +35,11 @@
         "battingStyle": "Right-handed",
         "bowlingStyle": "Right-arm fast",
         "country": "India",
-        "playerImg": "https://assets.iplt20.com/ipl/IPLHeadshot2022/1124.png"
+        "playerImg": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2022/1124.png",
+        "points": 860,
+        "matches": 72,
+        "wickets": 141,
+        "economy": 3.64
       },
       {
         "id": "player-1004",
@@ -36,7 +48,11 @@
         "battingStyle": "Right-handed",
         "bowlingStyle": "NA",
         "country": "India",
-        "playerImg": "https://assets.iplt20.com/ipl/IPLHeadshot2022/1125.png"
+        "playerImg": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2022/1125.png",
+        "points": 780,
+        "matches": 79,
+        "runs": 3829,
+        "centuries": 7
       },
       {
         "id": "player-1005",
@@ -45,7 +61,24 @@
         "battingStyle": "Left-handed",
         "bowlingStyle": "Left-arm orthodox",
         "country": "India",
-        "playerImg": "https://assets.iplt20.com/ipl/IPLHeadshot2022/9.png"
+        "playerImg": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2022/9.png",
+        "points": 840,
+        "matches": 87,
+        "runs": 2523,
+        "wickets": 268
+      },
+      {
+        "id": "player-1006",
+        "name": "Hardik Pandya",
+        "role": "all-rounder",
+        "battingStyle": "Right-handed",
+        "bowlingStyle": "Right-arm medium-fast",
+        "country": "India",
+        "playerImg": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2022/2740.png",
+        "points": 810,
+        "matches": 63,
+        "runs": 1694,
+        "wickets": 73
       }
     ],
     "team2Players": [
@@ -56,7 +89,11 @@
         "battingStyle": "Right-handed",
         "bowlingStyle": "Right-arm fast",
         "country": "Australia",
-        "playerImg": "https://assets.iplt20.com/ipl/IPLHeadshot2022/488.png"
+        "playerImg": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2022/488.png",
+        "points": 880,
+        "matches": 73,
+        "wickets": 164,
+        "economy": 3.22
       },
       {
         "id": "player-2002",
@@ -65,7 +102,11 @@
         "battingStyle": "Right-handed",
         "bowlingStyle": "Right-arm leg break",
         "country": "Australia",
-        "playerImg": "https://assets.iplt20.com/ipl/IPLHeadshot2022/271.png"
+        "playerImg": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2022/271.png",
+        "points": 840,
+        "matches": 94,
+        "runs": 8010,
+        "centuries": 31
       },
       {
         "id": "player-2003",
@@ -74,7 +115,11 @@
         "battingStyle": "Left-handed",
         "bowlingStyle": "Left-arm fast",
         "country": "Australia",
-        "playerImg": "https://assets.iplt20.com/ipl/IPLHeadshot2022/964.png"
+        "playerImg": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2022/964.png",
+        "points": 865,
+        "matches": 71,
+        "wickets": 148,
+        "economy": 3.42
       },
       {
         "id": "player-2004",
@@ -83,7 +128,11 @@
         "battingStyle": "Left-handed",
         "bowlingStyle": "Right-arm leg break",
         "country": "Australia",
-        "playerImg": "https://assets.iplt20.com/ipl/IPLHeadshot2022/170.png"
+        "playerImg": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2022/170.png",
+        "points": 875,
+        "matches": 108,
+        "runs": 5928,
+        "centuries": 24
       },
       {
         "id": "player-2005",
@@ -92,7 +141,24 @@
         "battingStyle": "Right-handed",
         "bowlingStyle": "Right-arm off break",
         "country": "Australia",
-        "playerImg": "https://assets.iplt20.com/ipl/IPLHeadshot2022/282.png"
+        "playerImg": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2022/282.png",
+        "points": 820,
+        "matches": 80,
+        "runs": 3714,
+        "wickets": 59
+      },
+      {
+        "id": "player-2006",
+        "name": "Josh Hazlewood",
+        "role": "bowler",
+        "battingStyle": "Left-handed",
+        "bowlingStyle": "Right-arm fast-medium",
+        "country": "Australia",
+        "playerImg": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2022/857.png",
+        "points": 830,
+        "matches": 54,
+        "wickets": 117,
+        "economy": 3.38
       }
     ]
   }
